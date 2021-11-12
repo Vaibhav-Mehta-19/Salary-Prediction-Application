@@ -1,3 +1,3 @@
 # ML--Assignment
 
-Salary Prediction Application using the Gradient Boosting Algorithm. 
+Salary Prediction Application using the Gradient Boosting Algorithm and Flask framework.
